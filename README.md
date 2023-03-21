@@ -1,0 +1,2 @@
+# Uso de Datos de Lista en Python
+Uso de Datos de Lista en Python, este codigo utiliza una lista y solicita al usuario un dato de la misma para mostrar un texto en pantalla segun las condiciones determinadas en el programa.
